@@ -1,6 +1,6 @@
 %%% inpainting new
 clear; 
-kodak_path = 'D:\Local_Disk_F\uni\arshad_Dr_Samavi\1398\Inpainting\Kodak\';
+kodak_path = 'D:\Inpainting\Kodak\';
 temp1 = dir([kodak_path '*.ras']);
 i_no = 15;%numel(dir);
 ir =  512; ic = 768;
